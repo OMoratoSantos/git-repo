@@ -1,7 +1,11 @@
-Este es un 
+Este no es un 
 
-archivo compartido
+archivo compartidoooo
 
 por Miguel, Alex y Oscar
 
+<<<<<<< HEAD
 alalsdlnaskdjfnbsdkfgjbnsdf
+=======
+Mofificado por Miguel
+>>>>>>> ccaa0128de2a3eb6f428b0f069a652e54db38d26
